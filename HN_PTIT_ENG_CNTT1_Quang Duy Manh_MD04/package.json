@@ -1,0 +1,12 @@
+{
+  "name": "hn_ptit_eng_cntt1_quang-duy-manh_md04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
